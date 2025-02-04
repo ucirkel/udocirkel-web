@@ -40,7 +40,7 @@ header:
       # Logo filename in `assets/media/` folder
       filename: "logo.svg"
     button:
-      enable: true
+      enable: false
       text: "Get Started"
       url: "https://hugoblox.com/templates/details/docs/"
     show_search: true
